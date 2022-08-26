@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660749273 source:d:\marek\cpp\guessnumber\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+	<limits>
+	<vector>
+
